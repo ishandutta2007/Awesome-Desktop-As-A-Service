@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Desktop-As-A-Service/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Desktop-As-A-Service?style=flat-square&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Desktop-As-A-Service/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Desktop-As-A-Service?style=flat-square&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Desktop-As-A-Service/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Desktop-As-A-Service?style=flat-square&color=blue" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Desktop-As-A-Service/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Desktop-As-A-Service?style=flat-square" alt="License"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -56,9 +56,9 @@ Below is a curated matrix of leading commercial DaaS and managed virtual desktop
 
 ## ⚡ Open-Source GitHub Projects
 
-Below is a curated selection of open-source building blocks, streaming engines, VNC/RDP servers, and clientless remote desktop gateways, **sorted by GitHub star count (descending)**.
+Below is a curated selection of open-source building blocks, streaming engines, VNC/RDP servers, and clientless remote desktop gateways, **sorted by GitHub Stars_Count (descending)**.
 
-| 📦 Repository / Project | 📝 Description | ⭐ Star Count |
+| 📦 Repository / Project | 📝 Description | ⭐ Stars_Count |
 | :--- | :--- | :--- |
 | **[RustDesk](https://github.com/rustdesk/rustdesk)** | Open-source, self-hostable remote desktop software written in Rust as a direct TeamViewer alternative. | <a href="https://github.com/rustdesk/rustdesk/stargazers"><img src="https://img.shields.io/github/stars/rustdesk/rustdesk?style=social&color=white" alt="stars"/></a> |
 | **[Sunshine](https://github.com/LizardByte/Sunshine)** | Low-latency, self-hosted game and desktop streaming server designed for Moonlight clients. | <a href="https://github.com/LizardByte/Sunshine/stargazers"><img src="https://img.shields.io/github/stars/LizardByte/Sunshine?style=social&color=white" alt="stars"/></a> |
@@ -112,7 +112,7 @@ Contributions are welcome! To suggest a new SaaS product or open-source repo:
 1. **Fork** this repository.
 2. Edit `README.md` keeping formatting consistent.
 3. For SaaS products: include pricing, free tier/trial details, and company scale.
-4. For Open-Source projects: provide the GitHub repo link and stargazers star badge (`style=social&color=white`).
+4. For Open-Source projects: provide the GitHub repo link and stargazers Stars_Badge (`style=social&color=white`).
 5. Open a **Pull Request** with a brief summary of your additions.
 
 Check out our curated meta list at [Awesome-Awesome-Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome).
