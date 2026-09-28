@@ -1,6 +1,6 @@
 # Awesome-Desktop-As-A-Service
 
-# Top Desktop as a Service (DaaS) Platforms Ecosystem
+## Top Desktop as a Service (DaaS) Platforms Ecosystem
 **Curated List of SaaS Products & Open-Source GitHub Projects**
 *Focused on Cloud Desktops, Virtual Desktop Infrastructure (VDI), Remote Workspaces, Browser-Based Desktops & Secure Remote Access*
 **Last updated: September 2026**
